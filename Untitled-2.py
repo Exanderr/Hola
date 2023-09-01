@@ -23,7 +23,7 @@ def mostrar_lista_productos():
 
     print("--- LISTA DE PRODUCTOS ---")
     productos = [
-        ("Galletas", 20),lfdjklsdfjklfdlkjsfdlkjdfs
+        ("Galletas", 20),
         ("Jugo", 30),
         ("Sanguchito", 50),
         ("Gaseosa", 20),
